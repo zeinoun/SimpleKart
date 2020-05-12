@@ -5,7 +5,7 @@ info:
   contact:
     name: Postman Team
     email: simplekart@postman.com
-  description: API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postman
+  description: API for an imaginary E-Commerce store to demonstrate API Builder capabilities in Postman - NEW
 servers:
   - url: 'https://api.simplekart.com'
 paths:
