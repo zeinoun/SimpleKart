@@ -23,7 +23,7 @@ paths:
         description: Id of the item to pull details of
         required: true
     get:
-      summary: 'Get item details from the database '
+      summary: 'Get item details from the datastore'
       tags:
         - item
       responses:
@@ -215,7 +215,7 @@ paths:
                         - itemId: 1661
                           name: 'Wipes Flushable Wet Wipes Dispenser, Mint Chill, 48 Count (Pack of 3)'
                           price: 938
-                          description: 'For a superior clean thats fresh, gentle, and effective, choose Wipes with the CleaningRipples Texture. Wipes are 100 percent flushable, remove odor causing bacteria and offer a large, dual layer wipe to clean better than when using dry toilet paper alone.'
+                          description: 'For a superior clean that’s fresh, gentle, and effective, choose Wipes with the CleaningRipples Texture. Wipes are 100 percent flushable, remove odor causing bacteria and offer a large, dual layer wipe to clean better than when using dry toilet paper alone.'
                       arrivalDate: '2020-03-04T02:06:58.886Z'
                       orderDate: '2020-03-02T04:33:52.652Z'
                       orderTotal: 938
@@ -245,7 +245,7 @@ paths:
                         - itemId: 1666
                           name: 'Learning Thermostat, 3rd Gen, Smart Thermostat'
                           price: 15746
-                          description: 'Learning Thermostat is a smart thermostat that learns what temperatures you like, turns itself down when youre away and connects to your phone. It has a big, sharp display. And its proven to help save energy. In independent studies, the Thermostat saved an average of 10% to 12% on heating bills and 15% on cooling bills.'
+                          description: 'Learning Thermostat is a smart thermostat that learns what temperatures you like, turns itself down when you’re away and connects to your phone. It has a big, sharp display. And it’s proven to help save energy. In independent studies, the Thermostat saved an average of 10% to 12% on heating bills and 15% on cooling bills.'
                       arrivalDate: '2020-03-05T10:43:23.713Z'
                       orderDate: '2020-03-03T08:34:21.21Z'
                       orderTotal: 15746
@@ -357,7 +357,7 @@ paths:
                     - itemId: 1661
                       name: 'Wipes Flushable Wet Wipes Dispenser, Mint Chill, 48 Count (Pack of 3)'
                       price: 938
-                      description: 'For a superior clean thats fresh, gentle, and effective, choose Wipes with the CleaningRipples Texture. Wipes are 100 percent flushable, remove odor causing bacteria and offer a large, dual layer wipe to clean better than when using dry toilet paper alone.'
+                      description: 'For a superior clean that’s fresh, gentle, and effective, choose Wipes with the CleaningRipples Texture. Wipes are 100 percent flushable, remove odor causing bacteria and offer a large, dual layer wipe to clean better than when using dry toilet paper alone.'
                     - itemId: 1662
                       name: Cordless Vacuum Cleaner
                       price: 41893
@@ -369,7 +369,7 @@ paths:
                     - itemId: 1664
                       name: Business Z27n G2 27 inch LED LCD Monitor
                       price: 24485
-                      description: 'Be a productive powerhouse with the sleek QHD HP Z27n G2 27-inch Display. This virtually seamless display is factory-tested for reliability and longevity with integrated color calibration, uninterrupted multi-screen tiling, and expansive device connections, including USB-C". Multi-screen productivity with no disruptions Streamline multi-tasking on multiple displays with a 3-sided micro-edge bezel, and daisy chain up to 2 displays per workstation with DisplayPort".'
+                      description: 'Be a productive powerhouse with the sleek QHD HP Z27n G2 27-inch Display. This virtually seamless display is factory-tested for reliability and longevity with integrated color calibration, uninterrupted multi-screen tiling, and expansive device connections, including USB-C™. Multi-screen productivity with no disruptions Streamline multi-tasking on multiple displays with a 3-sided micro-edge bezel, and daisy chain up to 2 displays per workstation with DisplayPort™.'
                     - itemId: 1665
                       name: Smart Watch
                       price: 1805
@@ -377,7 +377,7 @@ paths:
                     - itemId: 1666
                       name: 'Learning Thermostat, 3rd Gen, Smart Thermostat'
                       price: 15746
-                      description: 'Learning Thermostat is a smart thermostat that learns what temperatures you like, turns itself down when youre away and connects to your phone. It has a big, sharp display. And its proven to help save energy. In independent studies, the Thermostat saved an average of 10% to 12% on heating bills and 15% on cooling bills.'
+                      description: 'Learning Thermostat is a smart thermostat that learns what temperatures you like, turns itself down when you’re away and connects to your phone. It has a big, sharp display. And it’s proven to help save energy. In independent studies, the Thermostat saved an average of 10% to 12% on heating bills and 15% on cooling bills.'
                     - itemId: 16247
                       name: Postman Merch
                       price: 15
